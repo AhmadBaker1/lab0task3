@@ -1,0 +1,15 @@
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\bin\Debug\net8.0\lab0task3.exe
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\bin\Debug\net8.0\lab0task3.deps.json
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\bin\Debug\net8.0\lab0task3.runtimeconfig.json
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\bin\Debug\net8.0\lab0task3.dll
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\bin\Debug\net8.0\lab0task3.pdb
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.AssemblyInfoInputs.cache
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.AssemblyInfo.cs
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.sourcelink.json
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.dll
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\refint\lab0task3.dll
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.pdb
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\lab0task3.genruntimeconfig.cache
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0task3\obj\Debug\net8.0\ref\lab0task3.dll
